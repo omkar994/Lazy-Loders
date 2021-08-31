@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lazy-Loders/static/css/main.7457cb98.chunk.css",
+    "main.js": "/Lazy-Loders/static/js/main.8d074d1d.chunk.js",
+    "main.js.map": "/Lazy-Loders/static/js/main.8d074d1d.chunk.js.map",
+    "runtime-main.js": "/Lazy-Loders/static/js/runtime-main.6d6edb6c.js",
+    "runtime-main.js.map": "/Lazy-Loders/static/js/runtime-main.6d6edb6c.js.map",
+    "static/js/2.986d0a1c.chunk.js": "/Lazy-Loders/static/js/2.986d0a1c.chunk.js",
+    "static/js/2.986d0a1c.chunk.js.map": "/Lazy-Loders/static/js/2.986d0a1c.chunk.js.map",
+    "static/js/3.3b3846f1.chunk.js": "/Lazy-Loders/static/js/3.3b3846f1.chunk.js",
+    "static/js/3.3b3846f1.chunk.js.map": "/Lazy-Loders/static/js/3.3b3846f1.chunk.js.map",
+    "index.html": "/Lazy-Loders/index.html",
+    "static/css/main.7457cb98.chunk.css.map": "/Lazy-Loders/static/css/main.7457cb98.chunk.css.map",
+    "static/js/2.986d0a1c.chunk.js.LICENSE.txt": "/Lazy-Loders/static/js/2.986d0a1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6edb6c.js",
+    "static/js/2.986d0a1c.chunk.js",
+    "static/css/main.7457cb98.chunk.css",
+    "static/js/main.8d074d1d.chunk.js"
+  ]
+}
